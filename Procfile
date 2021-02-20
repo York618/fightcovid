@@ -1,0 +1,1 @@
+web: gunicorn covidbox.wsgi --log-file-

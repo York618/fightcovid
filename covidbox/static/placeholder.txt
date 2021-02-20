@@ -1,0 +1,2 @@
+The devleoper of Git thinks pushing a empty folder is a waste of space.
+But putting a text in the 'empty holder' is not 'a waste of space'
